@@ -100,7 +100,7 @@ h4 {
   background: #aeaeae;
 }
 
-/* 반응형 */
+/* 반응형 min-width */
 @media (min-width: 576px) {
   .content-02 {
     display: flex;
